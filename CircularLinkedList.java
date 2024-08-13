@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CLL {
+class CLL {
     Node head = null;
 
     class Node{
